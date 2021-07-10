@@ -40,11 +40,11 @@ The Leaderboard file contains a JSON structure with the following format:
 
 ```json
 {
-    '_leaderboardsData': [
-        {'_leaderboardId': '...', '_scores': [...]},
-        {'_leaderboardId': '...', '_scores': [...]},
+    "_leaderboardsData": [
+        {"_leaderboardId": "...", "_scores": [...]},
+        {"_leaderboardId": "...", "_scores": [...]},
                 ...
-        {'_leaderboardId': '...', '_scores': [...]},
+        {"_leaderboardId": "...", "_scores": [...]},
     ]
 }
 ```
